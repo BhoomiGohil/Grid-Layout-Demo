@@ -25,14 +25,17 @@ Below are visual representations of the original design and my implementation:
 To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
-   ```
-   git clone https://github.com/BhoomiGohil/html-css-grid-layout.git
-   cd html-css-grid-layout
-   ```
+
+```
+git clone https://github.com/BhoomiGohil/Grid-layoutUI.git
+cd Grid-layoutUI
+```
+
 2. Open the `Index.html` file in your web browser.
-   ```
-   open Index.html
-   ```
+
+```
+open Index.html
+```
 
 OR
 
